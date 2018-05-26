@@ -1,0 +1,9 @@
+1 Las_Meninas Velazquez p 1656 2017
+2 El_Discobolo Miron e 455 2002
+3 Moises Miguel_Angel e 1509 1998
+4 El_nacimiento_de_Venus Boticelli p 1486 2010
+5 Venus Milo e 1820 2015
+6 La_Piedad Miguel_Angel e 1498 2018
+7 La_Trinidad El_Greco p 1578 1999
+8 Las_tres_Gracias Rubens p 1637 2005
+9 El_Coloso Francisco_de_Goya p 1810 2016
